@@ -26,8 +26,8 @@ $db_name = "bWAPP";
 $db_sqlite = "db/bwapp.sqlite";
 
 // SMTP settings
-$smtp_sender = "bwapp@mailinator.com";
-$smtp_recipient = "bwapp@mailinator.com";
+$smtp_sender = "23110219@iitgn.ac.in";
+$smtp_recipient = "23110219@iitgn.ac.in";
 $smtp_server = "";
 
 // A.I.M.

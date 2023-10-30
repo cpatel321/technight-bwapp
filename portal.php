@@ -69,7 +69,7 @@ if(isset($_POST["form"]) && isset($_POST["bug"]))
 
         <tr>
 
-            <td><font color="#ffb717">Bugs</font></td>
+            <td><font color="#ffb717">Pests</font></td>
             <td><a href="password_change.php">Change Password</a></td>
             <td><a href="user_extra.php">Create User</a></td>
             <td><a href="security_level_set.php">Set Security Level</a></td>

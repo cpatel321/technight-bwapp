@@ -143,7 +143,7 @@ if(isset($_POST["form"]))
 <!--<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>-->
 <script src="js/html5.js"></script>
 
-<title>chandrabhan patel  - Login</title>
+<title>bWAPP - Login</title>
 
 </head>
 
