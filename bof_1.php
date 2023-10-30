@@ -116,7 +116,6 @@ function commandi($data)
         <input type="text" id="title" name="title" size="25">    
 
         <button type="submit" name="action" value="search">Search</button> &nbsp;&nbsp;(<a href="http://sourceforge.net/projects/bwapp/files/bee-box/" target="_blank">bee-box</a> only)
-
         </p>
 
     </form>
@@ -148,7 +147,7 @@ function commandi($data)
     {
 
         echo "<p>HINT: \\x90*354 + \\x8f\\x92\\x04\\x08 + [payload]</p>";
-        echo "<p>Thanks to David Bloom (@philophobia78) for developing the C++ BOF application!</p>";
+        echo "<p>Thanks to Rick Astley for developing the C++ BOF application!</p>";
 
     }
     ?>

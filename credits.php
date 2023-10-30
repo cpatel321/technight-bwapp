@@ -75,25 +75,14 @@ include("selections.php");
 
     <h1>Credits</h1>
 
-    <p>O yeah... who am I? Well my name is Malik. I'm a security consultant working for my own company, <a href="http://www.mmeit.be/en" target="_blank">MME</a>.<br />
-    We are specialized in Penetration Testing, Ethical Hacking, InfoSec Training, and Evil Bee Hunting.</p>
+    <p>You may ask yourself, why and how did I get here?</br>When you ask "why did big company X make strange choice Y regarding licensing or IP", 99 times out of 100 the answer is "lawyers". If the Plan 9 group had had its way, Plan 9 would have been released for free under a trivial MIT-like license (the one used for other pieces of code, like the one true awk) in 2003 instead of creating the Lucent Public License. Or in 2000 instead of creating the "Plan 9 License". Or in 1995 instead of as a $350 book+CD that came with a license for use by an entire "organization". Or in 1992 instead of being a limited academic release.
 
-    <p>Download our <a href="http://goo.gl/uVBGnq" target="_blank">What is bWAPP?</a> introduction tutorial, including free materials and exercises...<br />
-    I'm also happy to give bWAPP talks and workshops at your security convention or seminar!</p>
+Thankfully I am not at Lucent anymore and am not privy to the tortured negotiations that ended up at the obviously inelegant compromise of "The University of California, Berkeley, has been authorised by Alcatel-Lucent to release all Plan 9 software previously governed by the Lucent Public License, Version 1.02 under the GNU General Public License, Version 2." But the odds are overwhelming that the one-word answer is "lawyers".
 
-    <p>Need a training? We offer the following exclusive courses and workshops (on demand, at your location):
+Some have suggested that confusion about licensing may have contributed to Plan 9’s failure to supplant UNIX in the wider computing world.
 
-    <ul>
+</p>
 
-        <li>Attacking & Defending Web Apps with bWAPP : 2-day Web Application Security course (<a href="http://goo.gl/ASuPa1" target="_blank">pdf</a>)</li>
-        <li>Plant the Flags with bWAPP : 4-hour offensive Web Application Hacking workshop (<a href="http://goo.gl/fAwCex" target="_blank">pdf</a>)</li>
-        <li>Ethical Hacking Basics : 1-day Ethical Hacking course (<a href="http://goo.gl/09ccSf" target="_blank">pdf</a>)</li>
-        <li>Ethical Hacking Advanced : 1-day comprehensive Ethical Hacking course (<a href="http://goo.gl/PHLnQF" target="_blank">pdf</a>)</li>
-        <li>Windows Server 2012 Security : 2-day Windows Security course (<a href="http://goo.gl/4C0JfW" target="_blank">pdf</a>)</li>
-
-    </ul>
-
-    </p>
 
     <p>Special thanks to the Netsparker team!</p>
 

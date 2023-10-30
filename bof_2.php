@@ -75,11 +75,11 @@ include("selections.php");
 
     <h1>Buffer Overflow (Remote)</h1>
 
-    <p>A specific bWAPP network service is vulnerable to a remote buffer overflow. Get r00t! (<a href="http://sourceforge.net/projects/bwapp/files/bee-box/" target="_blank">bee-box</a> only)</p>
+    <p>A specific network service is vulnerable to a remote buffer overflow. Get r00t! (<a href="http://sourceforge.net/projects/bwapp/files/bee-box/" target="_blank">bee-box</a> only)</p>
 
     <p>HINT: \x90*354 + \xa7\x8f\x04\x08 + [payload]</p>
 
-    <p>Thanks to David Bloom (@philophobia78) for developing the C++ BOF application!</p>
+    <p>Thanks to Rick Astley for developing the C++ BOF application!</p>
 
 </div>
 

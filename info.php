@@ -67,23 +67,20 @@ bWAPP is licensed under a Creative Commons Attribution-NonCommercial-NoDerivativ
 
     <h1>Info</h1>
 
-    <p>bWAPP, or a <i>buggy web application</i>, is a free and open source deliberately insecure web application.<br />
-    It helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities.<br />
-    bWAPP prepares one to conduct successful penetration testing and ethical hacking projects.</p>
+    <p>What makes WebExplores so unique? Well, it has over 100 web vulnerabilities!<br />
+It covers all major known web bugs, including all risks from the <a href="https://www.circle.com/en/" target="blank">CIRCLE</a> Top 10 project.</p>
 
-    <p>What makes bWAPP so unique? Well, it has over 100 web vulnerabilities!<br />
-    It covers all major known web bugs, including all risks from the <a href="http://www.owasp.org" target="blank">OWASP</a> Top 10 project.</p>
+<p>WebExplores is a PHP application that uses a MySQL database. It can be hosted on Linux, Windows, and Mac with Apache/IIS and MySQL.
+It can also be installed with WAMP or XAMPP.<br />
+Another possibility is to download the <i>mess</i></p>
 
-    <p>bWAPP is a PHP application that uses a MySQL database. It can be hosted on Linux, Windows and Mac with Apache/IIS and MySQL.
-    It can also be installed with WAMP or XAMPP.<br />
-    Another possibility is to download the <i>bee-box</i>, a custom Linux VM pre-installed with bWAPP.</p>
+<p>Download our <a href="https://sites.google.com/a/iitgn.ac.in/mess-iitgn/" target="_blank">What is WebExplores?</a> introduction tutorial, including free exercises...</p>
 
-    <p>Download our <a href="http://goo.gl/uVBGnq" target="_blank">What is bWAPP?</a> introduction tutorial, including free exercises...</p>
+<p>WebExplores is for educational purposes. Education, the most powerful weapon which we can use to change the world.
+Have fun with this free and open source project!</p>
 
-    <p>bWAPP is for educational purposes. Education, the most powerful weapon which we can use to change the world.
-    Have fun with this free and open source project!</p>
+<p>Cheers, Mohani</p>
 
-    <p>Cheers, Malik Mesellem</p>
 
 </div>
 
