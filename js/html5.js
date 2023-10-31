@@ -40,6 +40,12 @@ window.onload = function () {
     if (trainingLink) {
         trainingLink.href = 'https://youtu.be/fC7oUOUEEi4'; // Change the URL as needed
     }
+
+    var elementc = document.querySelector('td font[color="red"]');
+    if (elementc) {
+        elementc.style.color = "aqua";
+    }
+
     // credits page to be updated
     // info page to be updated
     // 
